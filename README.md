@@ -7,7 +7,7 @@ Collection of software and information for crypto currency analytics.
 - [Cryptocurrency Analysis with Python - Buy and Hold](https://romanorac.github.io/cryptocurrency/analysis/2017/12/25/cryptocurrency-analysis-with-python-part2.html)
 - [Coin API](https://www.coinapi.io/)
 - [Cryptocurrency Data Analysis Part I: Obtaining and Playing with Data of Digital Assets](https://medium.com/@eliquinox/cryptocurrency-data-analysis-part-i-obtaining-and-playing-with-data-of-digital-assets-2a963a72703b)
-- []()
+- [CryptoDigest](https://www.cryptodigest.com/news/)
 - []()
 - []()
 - []()
