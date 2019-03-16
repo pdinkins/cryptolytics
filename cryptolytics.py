@@ -3,12 +3,11 @@ from pprint import pprint
 import sys
 import time
 
-wifipasswrd = 'mTzC22RBx'
 
-apikey = api1.key
+# TODO: api keys 
+apikey = src/api1.key
 __debug = True
-
-currencylayerAPI_key = api.key
+currencylayerAPI_key = src/api.key
 currencylayerAPI_baseurl = "http://apilayer.net/api/"
 
 def cc_indo():
