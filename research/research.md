@@ -20,6 +20,9 @@
 
 ## Ethereum
 - [ETH EVM PDF](https://takenobu-hs.github.io/downloads/ethereum_evm_illustrated.pdf)
+- [web3.py](https://github.com/ethereum/web3.py)
+- [geth](https://github.com/ethereum/go-ethereum)
+- [sol](https://github.com/ethereum/solidity)
 
 ## Bitcoin
 - []()
