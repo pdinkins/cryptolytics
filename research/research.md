@@ -1,8 +1,19 @@
 # Cryptolytics Research
 
+## Bitcoin
+- [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
+- [Bitcoin Whitepaper: a beginner's guide](https://www.bitcoin.com/get-started/bitcoin-white-paper-beginner-guide/)
+
+## Ethereum
+- [ETH EVM PDF](https://takenobu-hs.github.io/downloads/ethereum_evm_illustrated.pdf)
+- [web3.py](https://github.com/ethereum/web3.py)
+- [geth](https://github.com/ethereum/go-ethereum)
+- [sol](https://github.com/ethereum/solidity)
+
 ## Articles
 - [Crypto Node](https://medium.freecodecamp.org/ethereum-69-how-to-set-up-a-fully-synced-blockchain-node-in-10-mins-f6318d7aad40)
-### Blockchain
+
+## Blockchain
 - [Learn blockchain by building one](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46)
 - [When is it Time to Build Your Own Blockchain?](https://hackernoon.com/when-is-it-time-to-build-your-own-blockchain-f3be0a30b826)
 - [How to build your own blockchain for a financial product](https://djangostars.com/blog/how-to-build-your-own-blockchain-for-a-financial-product/)
@@ -17,18 +28,6 @@
 - [Creating your own cryptocurrency](https://lifehacker.com/how-to-create-your-own-cryptocurrency-1825337462)
 - [Blockchain archituecture](https://www.pluralsight.com/guides/blockchain-architecture?clickid=0OEQ8awlSxyJT55xTp3WVUkrUklxmtRuPwHfTU0&irgwc=1&mpid=29332&utm_source=impactradius&utm_medium=digital_affiliate&utm_campaign=29332&aid=7010a000001xAKZAA2)
 - [Blockchain architecture](https://blockchain.ieee.org/images/files/pdf/20180917-blockchain-architecture-and-reference-frameworks_-_c-lima.pdf)
-
-## Ethereum
-- [ETH EVM PDF](https://takenobu-hs.github.io/downloads/ethereum_evm_illustrated.pdf)
-- [web3.py](https://github.com/ethereum/web3.py)
-- [geth](https://github.com/ethereum/go-ethereum)
-- [sol](https://github.com/ethereum/solidity)
-
-## Bitcoin
-- []()
-
-## Ripple
-- []()
 
 ## TRON 
 - [Whitepaper](https://tron.network/static/doc/white_paper_v_2_0.pdf)
