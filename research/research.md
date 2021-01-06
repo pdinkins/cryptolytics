@@ -29,5 +29,14 @@
 - [Blockchain archituecture](https://www.pluralsight.com/guides/blockchain-architecture?clickid=0OEQ8awlSxyJT55xTp3WVUkrUklxmtRuPwHfTU0&irgwc=1&mpid=29332&utm_source=impactradius&utm_medium=digital_affiliate&utm_campaign=29332&aid=7010a000001xAKZAA2)
 - [Blockchain architecture](https://blockchain.ieee.org/images/files/pdf/20180917-blockchain-architecture-and-reference-frameworks_-_c-lima.pdf)
 
+## Blockchain Infrastructure 
+- [ChainLink](https://chain.link/)
+- [Graph](https://thegraph.com/)
+- [Streamr](https://streamr.network/)
+- [Ocean Protocol](https://oceanprotocol.com/)
+- [Band Protocol](https://bandprotocol.com/)
+- [Provable](https://provable.xyz/)
+- [Infura](https://infura.io/)
+
 ## TRON 
 - [Whitepaper](https://tron.network/static/doc/white_paper_v_2_0.pdf)
