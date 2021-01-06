@@ -9,6 +9,8 @@
 - [web3.py](https://github.com/ethereum/web3.py)
 - [geth](https://github.com/ethereum/go-ethereum)
 - [sol](https://github.com/ethereum/solidity)
+- [ERC20](https://en.bitcoinwiki.org/wiki/ERC20)
+- [EIP-20](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20.md)
 
 ## Articles
 - [Crypto Node](https://medium.freecodecamp.org/ethereum-69-how-to-set-up-a-fully-synced-blockchain-node-in-10-mins-f6318d7aad40)
@@ -37,6 +39,12 @@
 - [Band Protocol](https://bandprotocol.com/)
 - [Provable](https://provable.xyz/)
 - [Infura](https://infura.io/)
+
+## Web3
+- [web3.js](https://web3js.readthedocs.io/en/v1.3.0/)
+- [web3.js intro](https://www.dappuniversity.com/articles/web3-js-intro)
+- [web3.py](https://web3py.readthedocs.io/en/stable/)
+- [web3.py intro](https://www.dappuniversity.com/articles/web3-py-intro)
 
 ## TRON 
 - [Whitepaper](https://tron.network/static/doc/white_paper_v_2_0.pdf)
