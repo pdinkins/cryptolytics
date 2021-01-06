@@ -27,6 +27,12 @@
 - [web3.py](https://web3py.readthedocs.io/en/stable/)
 - [web3.py intro](https://www.dappuniversity.com/articles/web3-py-intro)
 
+## Ocean Protocol
+- [Technical Whitepaper](https://oceanprotocol.com/tech-whitepaper.pdf)
+- [Business Strategy](https://oceanprotocol.com/business-strategy.pdf)
+- [Ocean Market](https://market.oceanprotocol.com/)
+- [ocean.js](https://github.com/oceanprotocol/ocean.js)
+
 ## TRON 
 - [Whitepaper](https://tron.network/static/doc/white_paper_v_2_0.pdf)
 
