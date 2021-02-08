@@ -11,3 +11,8 @@ Collection of software and information for crypto currency analytics.
 
 ## messari.py 
 The following symbols are supported: BTC, ETH, USDT, ADA, DOT, XRP, BNB, LTC, DOGE, LINK, BCH, XLM, USDC, AAVE, UNI, WBTC, TERN, BSV, EOS, EGLD
+
+```
+btc_priceUSD()
+42000.00
+```
