@@ -11,6 +11,7 @@
 - [sol](https://github.com/ethereum/solidity)
 - [ERC20](https://en.bitcoinwiki.org/wiki/ERC20)
 - [EIP-20](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20.md)
+- [Enterprise Ethereum Alliance](https://entethalliance.org/)
 
 ## Blockchain Infrastructure 
 - [ChainLink](https://chain.link/)
@@ -59,3 +60,4 @@
 - [Cryptocurrency Data Analysis Part I: Obtaining and Playing with Data of Digital Assets](https://medium.com/@eliquinox/cryptocurrency-data-analysis-part-i-obtaining-and-playing-with-data-of-digital-assets-2a963a72703b)
 - [CryptoDigest](https://www.cryptodigest.com/news/)
 - [Crypto Node](https://medium.freecodecamp.org/ethereum-69-how-to-set-up-a-fully-synced-blockchain-node-in-10-mins-f6318d7aad40)
+
