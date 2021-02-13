@@ -2,8 +2,12 @@ import requests
 
 apiURL = "https://data.messari.io/api/v1/assets?fields=id,slug,symbol,metrics/market_data/price_usd"
 apiURL_BTC = "https://data.messari.io/api/v1/assets/bitcoin/metrics"
+metrics_endpoint = "https://data.messari.io/api/v1/assets/metrics"
 
 response = requests.get(apiURL).json()
+response2 = requests.get(apiURL_BTC).json()
+
+print(response2)
 
 def btc_priceUSD():
     return response['data'][0]['metrics']['market_data']['price_usd']

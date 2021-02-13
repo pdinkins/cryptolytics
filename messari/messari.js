@@ -5,7 +5,7 @@ const url = "https://data.messari.io/api/v1/assets?fields=id,slug,symbol,metrics
 
 
 // fetch method
-//fetch(url)
+// fetch(url)
 //.then(data => {return data.json()})
 //.then(response => {console.log(response)})
 
