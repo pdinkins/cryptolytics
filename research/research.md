@@ -12,6 +12,8 @@
 - [ERC20](https://en.bitcoinwiki.org/wiki/ERC20)
 - [EIP-20](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20.md)
 - [Enterprise Ethereum Alliance](https://entethalliance.org/)
+- [EIP-721](https://eips.ethereum.org/EIPS/eip-721)
+- [EIP-1155](https://eips.ethereum.org/EIPS/eip-1155)
 
 ## Blockchain Infrastructure 
 - [ChainLink](https://chain.link/)
