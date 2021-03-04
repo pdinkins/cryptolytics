@@ -24,6 +24,13 @@
 - [Provable](https://provable.xyz/)
 - [Infura](https://infura.io/)
 
+## Chainlink
+- [Chainlink](https://chain.link)
+- [Example Projects](https://docs.chain.link/docs/example-projects)
+- [pappas999/chainlink-hardhat-box](https://github.com/pappas999/chainlink-hardhat-box)
+- [smartcontractkit/chainlink-mix](https://github.com/smartcontractkit/chainlink-mix)
+- [smartcontractkit/box](https://github.com/smartcontractkit/box)
+
 ## Web3
 - [web3.js](https://web3js.readthedocs.io/en/v1.3.0/)
 - [web3.js intro](https://www.dappuniversity.com/articles/web3-js-intro)
