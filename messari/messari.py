@@ -12,72 +12,72 @@ response2 = requests.get(apiURL_BTC).json()
 def btc_priceUSD():
     for i in range(0,19):
         if response['data'][i]['slug'] == 'bitcoin':
-            return response['data'][i]['metrics']['market_data']['price_usd']
+            return response['data'][i]['slug'], response['data'][i]['metrics']['market_data']['price_usd']
 
 def eth_priceUSD():
     for i in range(0,19):
         if response['data'][i]['slug'] == 'ethereum':
-            return response['data'][i]['metrics']['market_data']['price_usd']
+            return response['data'][i]['slug'], response['data'][i]['metrics']['market_data']['price_usd']
 
 def usdt_priceUSD():
     for i in range(0,19):
         if response['data'][i]['slug'] == 'tether':
-            return response['data'][i]['metrics']['market_data']['price_usd']
+            return response['data'][i]['slug'], response['data'][i]['metrics']['market_data']['price_usd']
 
 def ada_priceUSD():
     for i in range(0,19):
         if response['data'][i]['slug'] == 'cardano':
-            return response['data'][i]['metrics']['market_data']['price_usd']
+            return response['data'][i]['slug'], response['data'][i]['metrics']['market_data']['price_usd']
 
 def dot_priceUSD():
     for i in range(0,19):
         if response['data'][i]['slug'] == 'polkadot':
-            return response['data'][i]['metrics']['market_data']['price_usd']
+            return response['data'][i]['slug'], response['data'][i]['metrics']['market_data']['price_usd']
 
 def xrp_priceUSD():
     for i in range(0,19):
         if response['data'][i]['slug'] == 'xrp':
-            return response['data'][i]['metrics']['market_data']['price_usd']
+            return response['data'][i]['slug'], response['data'][i]['metrics']['market_data']['price_usd']
 
 def bnb_priceUSD():
     for i in range(0,19):
         if response['data'][i]['slug'] == 'binance-coin':
-            return response['data'][i]['metrics']['market_data']['price_usd']
+            return response['data'][i]['slug'], response['data'][i]['metrics']['market_data']['price_usd']
 
 def ltc_priceUSD():
     for i in range(0,19):
         if response['data'][i]['slug'] == 'litecoin':
-            return response['data'][i]['metrics']['market_data']['price_usd']
+            return response['data'][i]['slug'], response['data'][i]['metrics']['market_data']['price_usd']
 
 def doge_priceUSD():
     for i in range(0,19):
         if response['data'][i]['slug'] == 'dogecoin':
-            return response['data'][i]['metrics']['market_data']['price_usd']
+            return response['data'][i]['slug'], response['data'][i]['metrics']['market_data']['price_usd']
 
 def link_priceUSD():
     for i in range(0,19):
         if response['data'][i]['slug'] == 'chainlink':
-            return response['data'][i]['metrics']['market_data']['price_usd']
+            return response['data'][i]['slug'], response['data'][i]['metrics']['market_data']['price_usd']
 
 def bch_priceUSD():
     for i in range(0,19):
         if response['data'][i]['slug'] == 'bitcoin-cash':
-            return response['data'][i]['metrics']['market_data']['price_usd']
+            return response['data'][i]['slug'], response['data'][i]['metrics']['market_data']['price_usd']
 
 def usdc_priceUSD():
     for i in range(0,19):
         if response['data'][i]['slug'] == 'usd-coin':
-            return response['data'][i]['metrics']['market_data']['price_usd']
+            return response['data'][i]['slug'], response['data'][i]['metrics']['market_data']['price_usd']
 
 def uni_priceUSD():
     for i in range(0,19):
         if response['data'][i]['slug'] == 'uniswap':
-            return response['data'][i]['metrics']['market_data']['price_usd']
+            return response['data'][i]['slug'], response['data'][i]['metrics']['market_data']['price_usd']
 
 def theta_priceUSD():
     for i in range(0,19):
         if response['data'][i]['slug'] == 'theta-token':
-            return response['data'][i]['metrics']['market_data']['price_usd']
+            return response['data'][i]['slug'], response['data'][i]['metrics']['market_data']['price_usd']
 
 def test_price_functions():
     print("btc", btc_priceUSD())
@@ -98,4 +98,6 @@ def test_price_functions():
 
 if __name__ == "__main__":
     #pprint.pprint(response)
-    test_price_functions()
+    #test_price_functions()
+    name, price = btc_priceUSD()
+    print(price)
