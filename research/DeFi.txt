@@ -1,0 +1,14 @@
+LP: Liquidity Provider
+A liquidity provider is someone who deposits ERC20 tokens into a given liquidity pool. 
+Liquidity providers take on price risk and are compensated with trading fees. 
+- [LP](https://docs.uniswap.org/concepts/V3-overview/glossary#liquidity-provider--lp)
+- [Uniswap's Financial Alchemy](https://research.paradigm.xyz/uniswaps-alchemy)
+
+
+AMM: Automatic Makret Maker
+An automated market maker (AMM) is a type of decentralized exchange (DEX) protocol that 
+relies on a mathematical formula to price assets. Instead of using an order book like a 
+traditional exchange, assets are priced according to a pricing algorithm.
+This formula can vary with each protocol. For example, Uniswap uses x * y = k, where x is 
+the amount of one token in the liquidity pool, and y is the amount of the other. In this 
+formula, k is a fixed constant, meaning the pool’s total liquidity always has to remain the same.
