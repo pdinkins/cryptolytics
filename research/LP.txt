@@ -1,0 +1,5 @@
+LP: Liquidity Provider
+A liquidity provider is someone who deposits ERC20 tokens into a given liquidity pool. 
+Liquidity providers take on price risk and are compensated with trading fees. 
+- [LP](https://docs.uniswap.org/concepts/V3-overview/glossary#liquidity-provider--lp)
+- [Uniswap's Financial Alchemy](https://research.paradigm.xyz/uniswaps-alchemy)
